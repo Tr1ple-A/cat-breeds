@@ -14,5 +14,13 @@
         "weight":"10 to 20 pounds",
         "Length":"17 to 21 inches, not including tail",
         "origin":"Riverside, California, USA"
+    },
+{
+        "id":3,
+        "name_of_breed":"Bengal cat",
+        "life_span":"10 to 16 years",
+        "weight":"8 to 17 pounds",
+        "Length":"17 to 22 inches, not including tail",
+        "origin":"USA"
     }
   ]
