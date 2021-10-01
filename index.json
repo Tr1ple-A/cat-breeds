@@ -6,5 +6,13 @@
         "weight":"7 to 16 pounds",
         "Length":"15 to 18 inches",
         "origin":"France"
+    },
+    {
+        "id":2,
+        "name_of_breed":"Ragdoll cat",
+        "life_span":"12 to 17 years",
+        "weight":"10 to 20 pounds",
+        "Length":"17 to 21 inches, not including tail",
+        "origin":"Riverside, California, USA"
     }
   ]
